@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Giga" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@drawable/bg_main</item>
+        <item name="android:statusBarColor">#0B1020</item>
+        <item name="android:navigationBarColor">#0B1020</item>
+        <item name="android:colorAccent">#6366F1</item>
+    </style>
+</resources>
